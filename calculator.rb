@@ -1,1 +1,2 @@
-def first_number = 
+def first_number = hello
+end 
